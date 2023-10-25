@@ -1,0 +1,13 @@
+Missing Homework 10/9:
+
+	public static void countQuarters(int centsCount){
+		centsCount /= 25;
+		return centsCount;
+	}
+
+	public static void printNumbers(int numberCount){
+		for(int i = 1; i < numberCount; i++){
+			System.out.print("[" + i + "] ");
+		}
+		System.out.println("[" + numberCount + "]");
+	}

@@ -1,0 +1,30 @@
+19.
+	a. 13
+	b. a
+	c. G
+	d. 2
+	e. GANDALF THE GRAY
+	f. -1
+	g. o Baggins
+	h. dalf the GR
+	i. Gandoolf the GRooY
+	j. Gandalf the GRAY
+	k. Frangeodo Baggins
+20.
+	a. 5
+	b. 19
+	c. q.e.d
+	d. ARCTURAN MEGADONKEY
+	e. E.
+	f. egad
+	g. 5
+	h. 2
+	i. 14
+	j. -1
+	k. Arcturan Megadonkeyc
+	l. be
+	m. Cyber
+	n. mega Cor
+21.
+        quote.substring(5,10).toUpperCase();
+	quote.replace("seven", "four").substring(16, 26);

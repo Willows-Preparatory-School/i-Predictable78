@@ -1,0 +1,17 @@
+public static void daysInMonth(int x){
+        if (x == 2){
+            System.out.println("28");
+        } else if (x == 4 || x == 6 || x == 9 || x == 11){
+            System.out.println("30");
+        } else if ((x <= 12) && (x > 0)){
+            System.out.println("31");
+        }
+    }
+
+public static void pow(int x, int y){
+	int f = x;
+        for (int i=1; i <y; i++){
+        	x *= f;
+       	}
+        System.out.println(x);
+    }
